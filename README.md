@@ -16,6 +16,4 @@ Style transfer relies on separating the content and style of an image. Given one
 -Objects and their arrangement are similar to that of the content image.
 -Style, colors, and textures are similar to that of the style image
 
-![](https://github.com/markmacwan/Neural-Style-Transfer/blob/main/Resources/content.png)
-![](https://github.com/markmacwan/Neural-Style-Transfer/blob/main/Resources/style.png)
 ![](https://github.com/markmacwan/Neural-Style-Transfer/blob/main/Resources/best.png)
