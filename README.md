@@ -13,6 +13,6 @@ Style transfer uses the features found in the 19-layer VGG Network, which is com
 ###Distinguishing Style and Content
 Style transfer relies on separating the content and style of an image. Given one content image and one style image, we aim to create a new, target image which should contain our desired content and style components:
 
--Objects and their arrangement are similar to that of the content image.
--Style, colors, and textures are similar to that of the style image
+- Objects and their arrangement are similar to that of the content image.
+- Style, colors, and textures are similar to that of the style image
 ![](https://github.com/markmacwan/Neural-Style-Transfer/blob/main/Resources/style.png)
